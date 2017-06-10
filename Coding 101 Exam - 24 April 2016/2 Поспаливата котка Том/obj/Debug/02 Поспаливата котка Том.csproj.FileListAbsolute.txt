@@ -1,0 +1,3 @@
+D:\Visual Studio\Coding 101 Exam - 24 April 2016\2 Поспаливата котка Том\bin\Debug\2 Поспаливата котка Том.exe.config
+D:\Visual Studio\Coding 101 Exam - 24 April 2016\2 Поспаливата котка Том\obj\Debug\2 Поспаливата котка Том.exe
+D:\Visual Studio\Coding 101 Exam - 24 April 2016\2 Поспаливата котка Том\obj\Debug\2 Поспаливата котка Том.pdb
